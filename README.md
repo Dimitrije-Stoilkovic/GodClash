@@ -1,6 +1,6 @@
 1. About:
 God Clash is pvp local game made with Unity game engine, it consists of astronaut (first player, Saturn god of time), terrain of matrix-like placed blocks that astronaut can move on and finish which is at start
-placed on most distanced block from astronat.
+placed on most distanced block from astronaut.
 Goal for Saturn is simple, reach the finish by crossing terrain using wasd keys or arrow keys for moving in 2d space before time runs out.
 While on the other hand, opposing player (second plaer, Jupyter god of space) wins if time runs out before astronaut reaches finish.
 Jupyter have 2 abilities, first one being ability to arise mentioned blocks and by doing that "walls" are created on terrain which makes crossing terrain more difficult.
